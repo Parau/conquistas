@@ -1,1 +1,1 @@
-Repositorio certificados e badges
+Repositorio com os certificados e badges.
